@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/P4UL-M/Atomic-Bayttle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=P4UL-M&repo=Atomic-Bayttle"/></a>
   <a href="https://github.com/deway-developpement/Goto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deway-developpement&repo=Goto"/></a>
-  <a href="https://github.com/deway-developpement/Pari-ci"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mastercamp-2024-Team-5&repo=Pari-ci"/></a>
+  <a href="https://github.com/deway-developpement/Pari-ci"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deway-developpement&repo=Pari-ci"/></a>
   <a href="https://github.com/P4UL-M/Copper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=P4UL-M&repo=Copper"/></a><br />
   <a href="https://deway.fr/portfolio">Read more on my portfolio !</a>
 </div>
