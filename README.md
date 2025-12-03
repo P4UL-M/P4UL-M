@@ -8,16 +8,16 @@
 
 <h2 align="center">Some of my projects :</h3>
 <div align="center">
-  <a href="https://github.com/P4UL-M/Atomic-Bayttle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=P4UL-M&repo=Atomic-Bayttle"/></a>
-  <a href="https://github.com/deway-developpement/Goto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deway-developpement&repo=Goto"/></a>
-  <a href="https://github.com/deway-developpement/Pari-ci"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deway-developpement&repo=Pari-ci"/></a>
-  <a href="https://github.com/P4UL-M/Copper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=P4UL-M&repo=Copper"/></a><br />
+  <a href="https://github.com/P4UL-M/Atomic-Bayttle"><img src="https://github-readme-stats-ten-sigma-95.vercel.app/api/pin/?username=P4UL-M&repo=Atomic-Bayttle"/></a>
+  <a href="https://github.com/deway-developpement/Goto"><img src="https://github-readme-stats-ten-sigma-95.vercel.app/api/pin/?username=deway-developpement&repo=Goto"/></a>
+  <a href="https://github.com/deway-developpement/Pari-ci"><img src="https://github-readme-stats-ten-sigma-95.vercel.app/api/pin/?username=deway-developpement&repo=Pari-ci"/></a>
+  <a href="https://github.com/P4UL-M/Copper"><img src="https://github-readme-stats-ten-sigma-95.vercel.app/api/pin/?username=P4UL-M&repo=Copper"/></a><br />
   <a href="https://deway.fr/portfolio">Read more on my portfolio !</a>
 </div>
 
 ---
 <div  align="center">
   <a href="https://github.com/P4UL-M">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4UL-M&layout=compact&langs_count=10" style="height:18em;" />
+    <img align="center" src="https://github-readme-stats-ten-sigma-95.vercel.app/api/top-langs/?username=P4UL-M&layout=compact&langs_count=10" style="height:18em;" />
   </a>
 </div>
